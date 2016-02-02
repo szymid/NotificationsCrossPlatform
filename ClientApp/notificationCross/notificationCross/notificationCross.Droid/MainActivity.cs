@@ -21,13 +21,41 @@ namespace notificationCross.Droid
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
 
-			// Get our button from the layout resource,
-			// and attach an event to it
-			Button button = FindViewById<Button> (Resource.Id.myButton);
-			
-			button.Click += delegate {
-				button.Text = string.Format ("{0} clicks!", count++);
-			};
+            // Get our button from the layout resource,
+            // and attach an event to it
+
+            Button notificationButton1 = FindViewById<Button> (Resource.Id.notificationButton1);
+            Button notificationButton2 = FindViewById<Button>(Resource.Id.notificationbutton2);
+            Button notificationButton3 = FindViewById<Button>(Resource.Id.notificationbutton3);
+            Button notificationButton4 = FindViewById<Button>(Resource.Id.notificationbutton4);
+            Button notificationButton5 = FindViewById<Button>(Resource.Id.notificationbutton5);
+
+            notificationButton1.Click += delegate
+            {
+                Console.WriteLine("NotificationButton 1 Pressed");
+            };
+
+            notificationButton2.Click += delegate
+            {
+                Console.WriteLine("NotificationButton 2 Pressed");
+            };
+
+            notificationButton3.Click += delegate
+            {
+                Console.WriteLine("NotificationButton 3 Pressed");
+            };
+
+            notificationButton4.Click += delegate
+            {
+                Console.WriteLine("NotificationButton 4 Pressed");
+            };
+
+            notificationButton5.Click += delegate
+            {
+                Console.WriteLine("NotificationButton 5 Pressed");
+            };
+
+            
 		}
 	}
 }

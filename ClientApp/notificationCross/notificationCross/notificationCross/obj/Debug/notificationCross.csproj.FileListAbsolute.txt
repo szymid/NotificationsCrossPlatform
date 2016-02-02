@@ -1,0 +1,7 @@
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Debug\notificationCross.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Debug\notificationCross.pdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Debug\notificationCross.csprojResolveAssemblyReference.cache
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Debug\notificationCross.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Debug\notificationCross.pdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Debug\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Debug\notificationCross.dll.mdb
