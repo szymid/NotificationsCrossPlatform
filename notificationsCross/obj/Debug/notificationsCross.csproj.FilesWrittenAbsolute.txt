@@ -1,0 +1,5 @@
+/Users/boguslawdawidow/Projects/notificationsCross/notificationsCross/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/boguslawdawidow/Projects/notificationsCross/notificationsCross/bin/Debug/notificationsCross.dll.mdb
+/Users/boguslawdawidow/Projects/notificationsCross/notificationsCross/bin/Debug/notificationsCross.dll
+/Users/boguslawdawidow/Projects/notificationsCross/notificationsCross/obj/Debug/notificationsCross.dll
+/Users/boguslawdawidow/Projects/notificationsCross/notificationsCross/obj/Debug/notificationsCross.dll.mdb

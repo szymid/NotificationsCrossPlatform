@@ -1,0 +1,16 @@
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/bin/iPhoneSimulator/Debug/Xamarin.Insights.dll
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/bin/iPhoneSimulator/Debug/PLCrashReporterUnifiedBinding.dll
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/bin/iPhoneSimulator/Debug/notificationsCross.dll
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/bin/iPhoneSimulator/Debug/notificationsCross.dll.mdb
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/bin/iPhoneSimulator/Debug/notificationsCross.iOS.exe.mdb
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/bin/iPhoneSimulator/Debug/notificationsCross.iOS.exe
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/obj/iPhoneSimulator/Debug/notificationsCross.iOS.exe
+/Users/boguslawdawidow/Projects/notificationsCross/iOS/obj/iPhoneSimulator/Debug/notificationsCross.iOS.exe.mdb
