@@ -16,6 +16,10 @@ namespace notificationCross.iOS
 	{
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
+		UITextField nameTextFirld { get; set; }
+
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
 		UIButton notificationButton1 { get; set; }
 
 		[Outlet]
@@ -34,8 +38,36 @@ namespace notificationCross.iOS
 		[GeneratedCode ("iOS Designer", "1.0")]
 		UIButton notificationButton5 { get; set; }
 
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		UITextField sureNameTextField { get; set; }
+
+		[Action ("notificationButton1TouchUpInside:")]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		partial void notificationButton1TouchUpInside (UIButton sender);
+
+		[Action ("notificationButton2TouchUpInside:")]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		partial void notificationButton2TouchUpInside (UIButton sender);
+
+		[Action ("notificationButton3TouchUpInside:")]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		partial void notificationButton3TouchUpInside (UIButton sender);
+
+		[Action ("notificationButton4TouchUpInside:")]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		partial void notificationButton4TouchUpInside (UIButton sender);
+
+		[Action ("notificationButton5TouchUpInside:")]
+		[GeneratedCode ("iOS Designer", "1.0")]
+		partial void notificationButton5TouchUpInside (UIButton sender);
+
 		void ReleaseDesignerOutlets ()
 		{
+			if (nameTextFirld != null) {
+				nameTextFirld.Dispose ();
+				nameTextFirld = null;
+			}
 			if (notificationButton1 != null) {
 				notificationButton1.Dispose ();
 				notificationButton1 = null;
@@ -55,6 +87,10 @@ namespace notificationCross.iOS
 			if (notificationButton5 != null) {
 				notificationButton5.Dispose ();
 				notificationButton5 = null;
+			}
+			if (sureNameTextField != null) {
+				sureNameTextField.Dispose ();
+				sureNameTextField = null;
 			}
 		}
 	}

@@ -1,0 +1,16 @@
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\notificationCross.Droid.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\Mono.Android.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\mscorlib.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\notificationCross.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.Core.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.Xml.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.Diagnostics.Tracing.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.Reflection.Emit.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.Reflection.Emit.ILGeneration.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.Reflection.Emit.Lightweight.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.ServiceModel.Security.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.Threading.Timer.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.ServiceModel.Internals.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross.Droid\obj\Release\android\assets\System.ServiceModel.dll

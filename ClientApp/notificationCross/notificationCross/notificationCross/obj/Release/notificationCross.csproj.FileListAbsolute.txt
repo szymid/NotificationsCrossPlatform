@@ -1,0 +1,11 @@
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Release\notificationCross.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Release\notificationCross.pdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Release\notificationCross.csprojResolveAssemblyReference.cache
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Release\notificationCross.dll
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Release\notificationCross.pdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Release\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Release\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Release\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Release\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Release\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Release\notificationCross.dll.mdb

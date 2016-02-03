@@ -1,0 +1,4 @@
+notificationCross.Droid.MainActivity, notificationCross.Droid;md51f89c2772814a61a0706837fe692bc13.MainActivity
+notificationCross.Droid.MainActivity, notificationCross.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51f89c2772814a61a0706837fe692bc13.MainActivity
+notificationCross.Droid.MainActivity;md51f89c2772814a61a0706837fe692bc13.MainActivity
+notificationcross.droid.MainActivity;md51f89c2772814a61a0706837fe692bc13.MainActivity
