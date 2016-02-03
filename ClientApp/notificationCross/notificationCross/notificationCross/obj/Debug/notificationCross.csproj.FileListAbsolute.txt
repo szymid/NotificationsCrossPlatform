@@ -5,3 +5,11 @@ C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCr
 C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Debug\notificationCross.pdb
 C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Debug\notificationCross.dll.mdb
 C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Debug\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Debug\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Debug\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Debug\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Debug\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Debug\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Debug\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\obj\Debug\notificationCross.dll.mdb
+C:\Users\SD\Documents\GitHub\NotificationsCrossPlatform\ClientApp\notificationCross\notificationCross\notificationCross\bin\Debug\notificationCross.dll.mdb
